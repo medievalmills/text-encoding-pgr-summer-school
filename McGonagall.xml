@@ -6,80 +6,109 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="broadside_28">
 	<teiHeader>
 		<fileDesc>
-		 <titleStmt>
-			<title>Broadside (July 1902)</title>
-		 </titleStmt>
-		 <publicationStmt>
-			<p>Produced as part of the McGonagall Project</p>
-		</publicationStmt>
-		 <sourceDesc>
-		  <p><!-- Information about source from which the resource derives --></p>
-		 </sourceDesc>
+			<titleStmt>
+				<title>Broadside (July 1902)</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Produced as part of the McGonagall Project</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!--Add some information about the document in question--></p>
+			</sourceDesc>
 		</fileDesc>
-	   </teiHeader>
-    
-    <text>
+	</teiHeader>
+
+	<text>
 		<body>
-            <div type="copyright"></div>
+			<div type="copyright"><p>E. R. Copyright. All rights reserved.</p></div>
 
-            <div type="authorStatement">
-            	<p>Composed July 1902, <lb/>By Sir William Topaz McGonagall, Poet, <lb/>Knight of the White Elephant, Burmah, <lb/>No. 5 South College Street (3rd Flat), Edinburgh. <lb/>The Bard of Tel-El-Kebir, &amp;c. Patronised by His Majesty and Lord Wolseley ; also the Nobility and Gentry.</p>
+			<div type="authorStatement">
+				<p>Composed July 1902, <lb/>By Sir William Topaz McGonagall, Poet, <lb/>Knight of
+					the White Elephant, Burmah, <lb/>No. 5 South College Street (3rd Flat),
+					Edinburgh. <lb/>The Bard of Tel-El-Kebir, &amp;. Patronised by His Majesty and
+					Lord Wolseley ; also the Nobility and Gentry.</p>
 			</div>
 
-        	<div type="testimonials">
-        		<div n="28-01" type="royal"><p>Windsor Castle. <lb/>Sir Francis Knollys is commanded by The King <lb/>to thank Mr. W. McGonagall for his letter and for the <lb/>verses enclosed in it. <lb/>3rd February 1901.</p></div>
-				<cb/>
-        		<div n="28-02" type="gentry"><p>Garland's Hotel, Suffolk Street, S.W., <lb/>March 8th, 1901. <lb/>Lord Wolesley presents his compliments to Mr. William McGonagall, and congratulates him upon his having written lines upon the Death of the Queen, which do him honour. <lb/>Mr. McGonagall.</p></div>
-			</div>
-
-        	<div type="origin">
-       			<p>Extracted from the &quot;Dundee Weekly News,&quot; July 5th, 1902.</p>
-			</div>
-
-    		<div type="poem">
-       			<div type="title"><p>McGonagall's Ode to the King.</p></div>
-       			<div type="publisherStatement"><p>Mr. William McGonagall, Poet, 5 South College Street, Edinburgh, has sent us for publication the following ode he has addressed to His Majesty the King. If there is one trait more peculiar than another in the poet's character it is loyalty and patriotism. Those who are acquainted with his style will be inclined to say that in this oblation to his Sovereign the poet has surpassed himself, and to forgive  his use of the &quot;VII.,&quot; against which the Scottish Patriotic Association has raised so strong a protest.</p></div>
-       			<div type="text"> 	
-  			  		<lg>
-    					<l>Oh! God, I thank Thee for restoring King Edward the Seventh's<lb/> health again,</l>
-    					<l>And let all his subjects throughout the Empire say Amen ;</l>
-    					<l>May God guard him by night and by day,</l>
-    					<l>At home and abroad, when he's far away.</l>
-    				</lg>
-    	
-    				<lg>
-    					<l>May angels guard his bed at night when he lies down,</l>
-    					<l>And may his subjects revere him, and on him do not frown ;</l>
-    					<l>May he be bonoured by them at home and abroad,</l>
-    					<l>And may he always be protected by the eternal God.</l>
-    				</lg>
-    	
-    				<lg>
-    					<l>My blessing on his noble form, and on his lofty head,</l>
-    					<l>May all good angels guard him while living and when dead ;</l>
-    					<l>And when the final hour shall come to summons him away,</l>
-    					<l>May his soul be wafted to the realms of bliss I do pray.</l>
-    				</lg>    	
-    	
-   	 				<lg>
-    					<l>Long may he reign, happy and serene,</l>
-    					<l>And also his Queen most beautiful to be seen ;</l>
-    					<l>And may God guard his family by night and by day,</l>
-   		 				<l>That they may tread in the paths of virtue and not go astray.</l>
-    				</lg>
-    		
-   		 			<lg>
-    					<l>May God prosper King Edward the Seventh wherever he goes,</l>
-    					<l>May he always reign victorious over his foes ;</l>
-    					<l>Long may he be spared to wear the British Crown,</l>
-    					<l>And may God be as a hedge around him at night when he lies<lb/> down ;</l>
-    					<l>May God inspire him with wisdom, and long may he reign</l>
-    					<l>As Emperor of India and King Edward the VII. - Amen.</l>
-    				</lg>  			    		
+			<div type="testimonials">
+				<div n="28-01" type="royal">
+					<p>Windsor Castle. <lb/>Sir Francis Knollys is commanded by The King <lb/>to
+						thank Mr. W. McGonagall for his letter and for the <lb/>verses enclosed in
+						it. <lb/>3rd February 1901.</p>
 				</div>
-            </div>
-        </body>
+				<cb/>
+				<div n="28-02" type="gentry">
+					<p>Garland's Hotel, Suffolk Street, S.W., <lb/>March 8th, 1901. <lb/>Lord
+						Wolesley presents his compliments to Mr. William McGonagall, and
+						congratulates him upon his having written lines upon the Death of the Queen,
+						which do him honour. <lb/>Mr. McGonagall.</p>
+				</div>
+			</div>
+			<cb/>
+			<div type="poem">
+				<div type="origin">
+					<p>Extracted from the &quot;Dundee Weekly News,&quot; July 5th, 1902.</p>
+				</div>
+				<div type="title">
+					<p>McGonagall's Ode to the King.</p>
+				</div>
+				<div type="publisherStatement">
+					<p>Mr. William McGonagall, Poet, 5 South College
+						Street, Edinburgh, has sent us for publication the following ode he has
+						addressed to His Majesty the King. If there is one trait more peculiar than
+						another in the poet's character it is loyalty and patriotism. Those who are
+						acquainted with his style will be inclined to say that in this oblation to
+						his Sovereign the poet has surpassed himself, and to forgive his use of the
+						&quot;VII.,&quot; against which the Scottish Patriotic Association has
+						raised so strong a protest.</p>
+				</div>
+				<div type="text">
+					<lg>
+						<l>Oh! God, I thank Thee for restoring King Edward the Seventh's<lb/> health
+							again,</l>
+						<l>And let all his subjects throughout the Empire say Amen ;</l>
+						<l>May God guard him by night and by day,</l>
+						<l>At home and abroad, when he's far away.</l>
+					</lg>
+
+					<lg>
+						<l>May angels guard his bed at night when he lies down,</l>
+						<l>And may his subjects revere him, and on him do not frown ;</l>
+						<l>May he be bonoured by them at home and abroad,</l>
+						<l>And may he always be protected by the eternal God.</l>
+					</lg>
+
+					<lg>
+						<l>My blessing on his noble form, and on his lofty head,</l>
+						<l>May all good angels guard him while living and when dead ;</l>
+						<l>And when the final hour shall come to summons him away,</l>
+						<l>May his soul be wafted to the realms of bliss I do pray.</l>
+					</lg>
+
+					<lg>
+						<l>Long may he reign, happy and serene,</l>
+						<l>And also his Queen most beautiful to be
+							seen ;</l>
+						<l>And may God guard his family by night and
+							by day,</l>
+						<l>That they may tread in the paths of virtue and not go astray.</l>
+					</lg>
+
+					<lg>
+						<l>May God prosper King
+								Edward the Seventh wherever he goes,</l>
+						<l>May he always reign victorious over his foes ;</l>
+						<l>Long may he be spared to wear the British Crown,</l>
+						<l>And may God be as a hedge around him at
+							night when he lies<lb/> down ;</l>
+						<l>May God inspire him with wisdom, and long
+							may he reign</l>
+						<l>As Emperor of India and King Edward the
+								VII. - Amen.</l>
+					</lg>
+				</div>
+			</div>
+		</body>
 
 
-    </text>
+	</text>
 </TEI>
