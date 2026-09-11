@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_mcgonagall.rng" type="application/xml" 
+<?xml-model href="mcgonagall_schema.rng" type="application/xml" 
    schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--<?xml-model href="tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
@@ -63,7 +63,7 @@
 				</div>
 				<div type="text">
 					<lg>
-						<l>Oh! God, I thank Thee for restoring King Edward the Seventh's<lb/> health
+						<l n="1">Oh! God, I thank Thee for restoring King Edward the Seventh's<lb/> health
 							again,</l>
 						<l>And let all his subjects throughout the Empire say Amen ;</l>
 						<l>May God guard him by night and by day,</l>
